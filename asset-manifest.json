@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/rubrics-creation-tool/static/css/main.d4554d31.css",
-    "main.js": "/rubrics-creation-tool/static/js/main.29cf26ef.js",
+    "main.js": "/rubrics-creation-tool/static/js/main.d1c45d97.js",
     "static/js/787.8285cb28.chunk.js": "/rubrics-creation-tool/static/js/787.8285cb28.chunk.js",
     "static/media/background5.png": "/rubrics-creation-tool/static/media/background5.c190489ef7bee42f6875.png",
     "static/media/logo2.png": "/rubrics-creation-tool/static/media/logo2.2775484432e877727c7a.png",
     "index.html": "/rubrics-creation-tool/index.html",
     "main.d4554d31.css.map": "/rubrics-creation-tool/static/css/main.d4554d31.css.map",
-    "main.29cf26ef.js.map": "/rubrics-creation-tool/static/js/main.29cf26ef.js.map",
+    "main.d1c45d97.js.map": "/rubrics-creation-tool/static/js/main.d1c45d97.js.map",
     "787.8285cb28.chunk.js.map": "/rubrics-creation-tool/static/js/787.8285cb28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4554d31.css",
-    "static/js/main.29cf26ef.js"
+    "static/js/main.d1c45d97.js"
   ]
 }
