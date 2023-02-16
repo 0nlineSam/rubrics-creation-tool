@@ -140,6 +140,7 @@ function ButtonsBox(props) {
         onClick={
           activeStep === steps.length - 1 ? handleGenerateJSON : handleNext
         }
+        disabled = {name === ""}
       >
         {activeStep === steps.length - 1 ? "Generate JSON" : "Next"}
       </Button>
